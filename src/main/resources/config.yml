@@ -1,0 +1,3 @@
+Message: "&8[&b<server>&8] &d<sender>&8: &f<message>"
+No-Permission-Message: "&4You don't have &bsc.write &4permission to use this command!"
+Not-Player-Message: "&4Only players can use this command!"

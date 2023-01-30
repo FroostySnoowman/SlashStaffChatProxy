@@ -1,0 +1,8 @@
+name: SlashStaffChatProxy
+version: '${project.version}'
+main: frostyservices.org.slashstaffchatproxy.Main
+commands:
+  staffchat:
+    description: StaffChat command
+    usage: /<command>
+    aliases: [sc, staff, chat, staffc, schat]
